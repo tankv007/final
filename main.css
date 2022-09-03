@@ -79,17 +79,6 @@ img {
 
 }
 
-.scroll{
-    display: block;
-    word-wrap: break-word;
-    border: none;
-    padding:5px;   
-    margin-top:0px;
-    width: 700px;
-    height: 80px;
-    overflow: scroll;
-}
-
 .grid-container {
     display: flex;
     
